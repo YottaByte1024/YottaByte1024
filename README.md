@@ -44,6 +44,8 @@ OSs:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+<!--
 Stats:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YottaByte1024.YottaByte1024&right_color=green)
+-->
